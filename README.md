@@ -1,20 +1,113 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 👨‍💻 Amitabh Kumar - Portfolio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amitabh-kumar-392671231/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/nithamitabh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel)](https://amitabh-kumar-portfolio.vercel.app)
+
+**MERN Stack Developer | GenAI & ML Engineer**
+
+*Dual Degree (B.Tech + M.Tech) student at NIT Hamirpur (2026)*
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚀 About This Portfolio
 
-View your app in AI Studio: https://ai.studio/apps/drive/1QsXpwK_2GyvZR6rhL9GrDT_dbesMK9D3
+A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features a clean monochromatic design with smooth animations and interactive elements.
 
-## Run Locally
+### ✨ Features
 
-**Prerequisites:**  Node.js
+- 🎨 Clean, minimal monochromatic design
+- 📱 Fully responsive layout
+- ⚡ Built with Vite for fast development
+- 🎭 Smooth animations and hover effects
+- 📄 Downloadable CV
+- 🔗 Social media integration
+- 📬 Contact section with direct links
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| React 18 | UI Framework |
+| TypeScript | Type Safety |
+| Tailwind CSS | Styling |
+| Vite | Build Tool |
+| Lucide React | Icons |
+
+---
+
+## 🏃‍♂️ Run Locally
+
+**Prerequisites:** Node.js (v18+)
+
+```bash
+# Clone the repository
+git clone https://github.com/nithamitabh/amitabh-kumar-portfolio.git
+
+# Navigate to project directory
+cd amitabh-kumar-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+
+---
+
+## 📦 Build for Production
+
+```bash
+# Create optimized build
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+---
+
+## 📁 Project Structure
+
+```
+├── components/
+│   ├── Hero.tsx           # Header with profile & CTA
+│   ├── Skills.tsx         # Technical skills section
+│   ├── Experience.tsx     # Work experience timeline
+│   ├── Projects.tsx       # Featured projects
+│   ├── Footer.tsx         # Contact information
+│   ├── FloatingHireButton.tsx  # Floating CTA button
+│   └── LearningTicker.tsx # Currently learning ticker
+├── App.tsx                # Main app component
+├── constants.ts           # Portfolio data
+├── types.ts               # TypeScript interfaces
+└── index.tsx              # Entry point
+```
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [21dec004@nith.ac.in](mailto:21dec004@nith.ac.in)
+- 📱 Phone: +91-9555936735
+- 🔗 LinkedIn: [amitabh-kumar-392671231](https://linkedin.com/in/amitabh-kumar-392671231/)
+- 💻 GitHub: [nithamitabh](https://github.com/nithamitabh)
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you like it!**
+
+Made with ❤️ by Amitabh Kumar
+
+</div>
