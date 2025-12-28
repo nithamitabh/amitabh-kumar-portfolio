@@ -7,7 +7,7 @@ export const PERSONAL_INFO = {
   email: "21dec004@nith.ac.in",
   phone: "+91-9555936735",
   availability: "Available immediately for Training-cum-job & Fresher roles",
-  github: "https://github.com/amitabh-kumar", // Placeholder based on CV context
+  github: "https://github.com/nithamitabh", // Placeholder based on CV context
   linkedin: "https://linkedin.com/in/amitabh-kumar-392671231/",
   website: "", 
 };
